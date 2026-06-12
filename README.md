@@ -117,10 +117,6 @@ const rohan = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohangupta231&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohangupta231&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
